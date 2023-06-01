@@ -1,0 +1,1 @@
+{"name":"DetailPageComponentIndex","template":"export * from './COMPONENT_NAME';\n","tokens":["COMPONENT_NAME"],"dependencies":null,"file_name":"index.ts"}
