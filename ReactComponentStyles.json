@@ -1,1 +1,1 @@
-{"name":"DetailPageComponentStyles","template":"import styled from 'styled-components';\n\nexport const Container = styled.div``;\n","tokens":["COMPONENT_NAME"],"dependencies":null,"file_name":"COMPONENT_NAME.styles.tsx"}
+{"name":"ReactComponentStyles","template":"import styled from 'styled-components';\n\nexport const Container = styled.div``;\n","tokens":["COMPONENT_NAME"],"dependencies":null,"file_name":"COMPONENT_NAME.styles.tsx"}
